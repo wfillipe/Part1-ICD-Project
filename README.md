@@ -40,7 +40,7 @@ mais valorizada e vale mais a pena no ramo de investimentos.
 
 
 
-Informações importantes e banco de dados importados de ambos os links a seguir: 
+Informações importantes e banco de dados importados dos links a seguir: 
 
 https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?resource=download&select=coin_Bitcoin.csv
 
