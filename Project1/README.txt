@@ -1,4 +1,4 @@
-Primeira parte do projeto sobre pesquisa de banco de dados feito por: Wilson Fillipe
+Projeto sobre pesquisa de banco de dados feito por: Wilson Fillipe
 
   O objetivo principal da pesquisa é relacionar três análises de dados e encontrar uma 
 relação entre eles a partir de uma manipulação feita com a biblioteca pandas no jupyter 
@@ -31,6 +31,8 @@ mais valorizada e vale mais a pena no ramo de investimentos.
 
 
 
+Parte 1 e 2: "Data science project1 .ipynb" "Boxplot.ipynb"
+Parte 3: "Histogramas.ipynb" "Gráficos de linhas.ipynb" 
 
 
 
